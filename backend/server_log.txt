@@ -1,0 +1,73 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified some issues:
+
+WARNINGS:
+workers.Worker: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the WorkersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+March 28, 2026 - 01:34:51
+Django version 4.2.7, using settings 'sureshift.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+C:\Users\ROHIT\OneDrive\Desktop\GITHUB\sureshift-devtrails-2026\backend\premium\views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified some issues:
+
+WARNINGS:
+workers.Worker: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the WorkersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+March 28, 2026 - 01:37:58
+Django version 4.2.7, using settings 'sureshift.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+C:\Users\ROHIT\OneDrive\Desktop\GITHUB\sureshift-devtrails-2026\backend\sureshift\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified some issues:
+
+WARNINGS:
+workers.Worker: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the WorkersConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+March 28, 2026 - 01:38:03
+Django version 4.2.7, using settings 'sureshift.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+Method Not Allowed: /api/premium/calculate/
+[28/Mar/2026 01:38:38] "GET /api/premium/calculate/ HTTP/1.1" 405 5657
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[28/Mar/2026 01:38:38] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2448
+Method Not Allowed: /api/premium/calculate/
+[28/Mar/2026 01:38:39] "GET /api/premium/calculate/ HTTP/1.1" 405 5657
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[28/Mar/2026 01:38:39] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2448
+Method Not Allowed: /api/premium/calculate/
+[28/Mar/2026 01:38:39] "GET /api/premium/calculate/ HTTP/1.1" 405 5657
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[28/Mar/2026 01:38:39] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2448
+Method Not Allowed: /api/premium/calculate/
+[28/Mar/2026 01:38:39] "GET /api/premium/calculate/ HTTP/1.1" 405 5657
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[28/Mar/2026 01:38:39] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 2448
+C:\Users\ROHIT\OneDrive\Desktop\GITHUB\sureshift-devtrails-2026\backend\sureshift\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 28, 2026 - 01:52:08
+Django version 4.2.7, using settings 'sureshift.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+

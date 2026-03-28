@@ -13,7 +13,7 @@ SEASON_RISK = {
     'summer': 0,
 }
 
-@api_view(['POST'])
+@api_view(['POST', 'OPTIONS'])
 def calculate_premium(request):
     city = request.data.get('city', '').lower()
     season = request.data.get('season', 'summer').lower()
