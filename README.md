@@ -9,9 +9,6 @@
 | Name |
 |------|
 | Rudatala Rohit Piyushbhai |
-| Nikita Mahendran Pillai |
-| Reddy Sri Sowmya |
-| Venkata Purna Chandra Rao |
 
 **University :**  Parul University
 
